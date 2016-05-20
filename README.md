@@ -1,2 +1,2 @@
 # Bureaucracy
-Rule book for card game using standard 52-card deck with jokers
+Rule book for a card game using standard 52-card deck with jokers
